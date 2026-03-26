@@ -1,5 +1,6 @@
 ### Nothing too fancy here
 
+My very humble "devlog" of the SDL game I work on in my free time: https://leminsk.github.io/sdl_game_000/
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leminsk)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
